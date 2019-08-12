@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:coral;
+    
+}
+
+
+#main-container{
+    margin: 50px;
+    height: auto;
+}
+
+#top-container{
+    text-align: center;
+    height: 150px;
+    width: auto;
+    
+}
+
+#image-container{
+    height: 400px;
+    width: auto;
+    
+}
+
+#image-container img{
+    height: inherit;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
